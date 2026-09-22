@@ -1,13 +1,13 @@
-# BAU Style for Zotero
+# BAU Citation Style
 
-![GitHub Release](https://img.shields.io/github/v/release/rash-Rifat/BAU_Style_Zotero)
+![GitHub Release](https://img.shields.io/github/v/release/rash-Rifat/BAU_Citation_Style)
 ![License: CC BY-SA 3.0](https://img.shields.io/badge/License-CC%20BY--SA%203.0-blue.svg)
 
 This is the official customized Zotero citation style for **[Bangladesh Agricultural University (BAU)](https://bau.edu.bd/)**.
 
-## Installation
+## Installation (Zotero)
 
-1. Go to the [Releases](https://github.com/rash-Rifat/BAU_Style_Zotero/releases/latest) page.
+1. Go to the [Releases](https://github.com/rash-Rifat/BAU_Citation_Style/releases/latest) page.
 2. Download the `BAU_Style.csl` file.
 3. Open Zotero.
 4. Go to **Edit > Settings** (Windows/Linux) or **Zotero > Settings** (Mac).
@@ -32,9 +32,18 @@ Once installed in Zotero, you can use the style directly in your Microsoft Word 
 
 *Note: For 1.5 line spacing in your bibliography, simply highlight the bibliography in Word and set the line spacing to 1.5 in the Home tab.*
 
+## Installation (Mendeley)
+
+1. Open Mendeley Desktop or Mendeley Reference Manager.
+2. Go to **View > Citation Style > More Styles**.
+3. In the new window, select the **Get More Styles** tab.
+4. Copy and paste the following URL into the "Download Style" box:
+   `https://raw.githubusercontent.com/rash-Rifat/BAU_Citation_Style/main/BAU_Style.csl`
+5. Click **Download** and select **Use this Style**.
+
 ## Contributing
 
-If you find any issues or would like to propose improvements to this style, please feel free to [open an issue](https://github.com/rash-Rifat/BAU_Style_Zotero/issues) or submit a Pull Request!
+If you find any issues or would like to propose improvements to this style, please feel free to [open an issue](https://github.com/rash-Rifat/BAU_Citation_Style/issues) or submit a Pull Request!
 
 ## Maintainer
 - **M. Rashidul Alam Rifat** (chem.rashidul.alam@gmail.com)
