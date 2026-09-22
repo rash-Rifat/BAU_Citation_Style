@@ -28,6 +28,8 @@ Once installed in Zotero, you can use the style directly in your Microsoft Word 
 3. Select **Bangladesh Agricultural University** from the list of Citation Styles and click **OK**.
    <br><img src="images/3.png" width="600">
 
+4. Finally, click **Refresh** in the Zotero tab to update all your citations and bibliography to the new style!
+
 *Note: For 1.5 line spacing in your bibliography, simply highlight the bibliography in Word and set the line spacing to 1.5 in the Home tab.*
 
 ## Contributing
