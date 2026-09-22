@@ -14,7 +14,7 @@
     <category citation-format="author-date" />
     <category field="generic-base" />
     <summary>Harvard according to Cite Them Right, 11th edition. Maintained by M. Rashidul Alam Rifat. Please feel free to open an issue or pull request on GitHub (https://github.com/rash-Rifat/BAU_Style_Zotero) to help upgrade and improve this style.</summary>
-    <updated>2026-09-22T21:00:00+06:00</updated>
+    <updated>2026-09-23T03:30:00+06:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en-GB">
@@ -206,10 +206,7 @@
   <macro name="pages">
     <choose>
       <if type="chapter paper-conference article-journal article article-magazine article-newspaper book review review-book report" match="any">
-        <group delimiter=" ">
-          <label variable="page" form="empty" />
-          <text variable="page" />
-        </group>
+        <text variable="page" />
       </if>
     </choose>
   </macro>
@@ -275,7 +272,7 @@
         <group delimiter=" ">
           <text macro="author" />
           <text macro="year-date" suffix=":" />
-          <group delimiter=", ">
+          <group delimiter=". ">
             <text macro="title" />
             <group delimiter=" ">
               <text macro="editor" />
@@ -286,7 +283,7 @@
         <text macro="secondary-contributors" />
         <text macro="publisher" />
       </group>
-      <group delimiter=", " prefix=", ">
+      <group delimiter=" " prefix=" ">
         <text macro="locator" />
         <text macro="published-date" />
         <text macro="pages" />
