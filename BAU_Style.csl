@@ -291,7 +291,6 @@
         <text macro="pages" />
       </group>
       <text macro="access" prefix=". " />
-      <text value=" [M. Rashidul Alam Rifat | chem.rashidul.alam@gmail.com | https://github.com/rash-Rifat]" prefix=" "/>
     </layout>
   </bibliography>
 </style>
