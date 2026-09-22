@@ -3,7 +3,7 @@
   <info>
     <title>Bangladesh Agricultural University</title>
     <id>http://www.zotero.org/styles/bau-harvard-v2</id>
-    <link href="http://www.zotero.org/styles/harvard-cite-them-right" rel="self" />
+    <link href="https://raw.githubusercontent.com/rash-Rifat/BAU_Style_Zotero/main/BAU_Style.csl" rel="self" />
     <link href="http://www.zotero.org/styles/harvard-cite-them-right-11th-edition" rel="template" />
     <link href="https://github.com/rash-Rifat/BAU_Style_Zotero" rel="documentation" />
     <author>
@@ -14,7 +14,7 @@
     <category citation-format="author-date" />
     <category field="generic-base" />
     <summary>Harvard according to Cite Them Right, 11th edition. Maintained by M. Rashidul Alam Rifat. Please feel free to open an issue or pull request on GitHub (https://github.com/rash-Rifat/BAU_Style_Zotero) to help upgrade and improve this style.</summary>
-    <updated>2026-09-22T19:21:58+06:00</updated>
+    <updated>2026-09-22T20:40:00+06:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en-GB">
