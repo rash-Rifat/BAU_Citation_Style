@@ -14,7 +14,7 @@
     <category citation-format="author-date" />
     <category field="generic-base" />
     <summary>Harvard according to Cite Them Right, 11th edition. Maintained by M. Rashidul Alam Rifat. Please feel free to open an issue or pull request on GitHub (https://github.com/rash-Rifat/BAU_Style_Zotero) to help upgrade and improve this style.</summary>
-    <updated>2026-09-23T03:30:00+06:00</updated>
+    <updated>2026-09-23T03:32:00+06:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en-GB">
@@ -189,7 +189,7 @@
     <choose>
       <if type="article-journal">
         <text variable="volume" font-weight="bold" />
-        <text variable="issue" prefix="(" suffix=")" />
+        <text variable="issue" prefix="(" suffix=")" font-weight="bold" />
       </if>
     </choose>
   </macro>
