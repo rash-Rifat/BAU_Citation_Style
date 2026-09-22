@@ -15,6 +15,21 @@ This is the official customized Zotero citation style for **[Bangladesh Agricult
 6. Click the **+** button.
 7. Select the downloaded `BAU_Style.csl` file to install it.
 
+## Usage in Microsoft Word
+
+Once installed in Zotero, you can use the style directly in your Microsoft Word documents.
+
+1. **Open Zotero** in the background on your PC.
+   <br><img src="images/1.png" width="400">
+
+2. In Microsoft Word, click the **Zotero** tab, then click **Document Preferences**.
+   <br><img src="images/3.png" width="600">
+
+3. Select **Bangladesh Agricultural University** from the list of Citation Styles and click **OK**.
+   <br><img src="images/2.png" width="600">
+
+*Note: For 1.5 line spacing in your bibliography, simply highlight the bibliography in Word and set the line spacing to 1.5 in the Home tab.*
+
 ## Contributing
 
 If you find any issues or would like to propose improvements to this style, please feel free to [open an issue](https://github.com/rash-Rifat/BAU_Style_Zotero/issues) or submit a Pull Request!
