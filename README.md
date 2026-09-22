@@ -1,5 +1,8 @@
 # BAU Style for Zotero
 
+![GitHub Release](https://img.shields.io/github/v/release/rash-Rifat/BAU_Style_Zotero)
+![GitHub License](https://img.shields.io/github/license/rash-Rifat/BAU_Style_Zotero)
+
 This is a customized Zotero citation style for **Bangladesh Agricultural University (BAU)**, based on the Harvard (Cite Them Right) format.
 
 ## Installation
